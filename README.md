@@ -1,4 +1,4 @@
-# Scikit-Learn Reservoir
+# Machine Learning Reservoir
 
 Welcome to the Scikit-Learn Reservoir! 🌊
 
