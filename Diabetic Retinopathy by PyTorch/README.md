@@ -1,4 +1,4 @@
-# <div style="text-align: center;"><b><span style='color:#e61227'>|</span> Convolutional Neural Network for Diabetic Retinopathy Detection (Pytorch)<span style='color:#e61227'>|</span></b></div>[[](http://)](http://)
+# Convolutional Neural Network for Diabetic Retinopathy Detection (Pytorch)
 
 <div style="color:white;display:fill;border-radius:8px;
             background-color:#03112A;font-size:150%;
